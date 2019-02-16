@@ -1,0 +1,6 @@
+owner=380573336805179392
+prefix=R
+game=Rexy
+stayinchannel=true
+songinstatus=false
+token=NTQ2Mjk0MTExNTY1Nzc0ODU4.D0mHkQ.sj7K4TVFYp_zyDML0oGZfzMATE4
